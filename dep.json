@@ -1,0 +1,16 @@
+{
+  "dependencies": [
+    "drizzle-orm",
+    "next",
+    "react",
+    "tailwind",
+    "@sentry/nextjs",
+    "spotlightjs/spotlight",
+    "radix-ui",
+    "@logtail/pino",
+    "sharp",
+    "@tanstack/react-table",
+    "@clerk/nextjs",
+    "@libsql/client"
+  ]
+}
